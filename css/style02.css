@@ -1,0 +1,15 @@
+p {
+  background-color: rgba(0, 255, 98, 0.884);
+}
+
+hr {
+  width: 80%;
+  height: 10px;
+  border: none;
+  background-color: red;
+}
+
+* {
+  text-decoration: underline;
+  background-color: grey;
+}
